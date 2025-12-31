@@ -1,0 +1,15 @@
+# .NET build artifacts
+bin/
+obj/
+
+# Local configuration (never commit real values)
+appsettings.json
+
+# Local output folders
+Attachments/
+output/
+
+# IDE / user-specific files
+.vscode/
+*.user
+*.suo
